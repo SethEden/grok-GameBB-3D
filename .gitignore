@@ -9,3 +9,7 @@ Dependencies.toml
 Config.toml
 # the config files used for testing, Uncomment the following line if you want to commit the test config files
 #!**/tests/Config.toml
+*/node_modules/*
+node_modules/*
+*/game-engine/win32-x64/*
+game-engine/win32-x64/*
